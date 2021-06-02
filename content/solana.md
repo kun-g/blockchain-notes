@@ -1,7 +1,7 @@
 ---
 title: "Solana链笔记"
 date: 2021-06-02T17:19:37+08:00
-draft: true
+draft: false
 ---
 
 * 主页 https://solana.com/
